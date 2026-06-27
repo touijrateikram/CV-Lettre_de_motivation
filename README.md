@@ -1,3 +1,5 @@
+<img width="1240" height="1764" alt="image" src="https://github.com/user-attachments/assets/ee44278c-eaca-4c47-98db-5bb555bf3744" />
+
 Madame, Monsieur,
 
 Actuellement étudiante en deuxième année de Licence Informatique à l'Université d'Évry Paris-Saclay, je souhaite poursuivre mon parcours en intégrant une formation qui me permettra de développer davantage mes compétences techniques et de les mettre en pratique au travers de projets concrets.
